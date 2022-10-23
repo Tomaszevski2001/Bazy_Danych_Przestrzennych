@@ -96,7 +96,7 @@ where buil.name='BuildingC'and poi.name= 'G';
 6 --Wypisz pole powierzchni tej części budynku BuildingC, która znajduje się w odległości większej niż 0.5 od budynku BuildingB.
 
 --ST_Area-pole
--- ST_Difference - odleglosc
+-- ST_Difference - odleglosc pomiedzy 2 odleglosciami
 --ST_buffer -WIELOKĄT reprezentujący wszystkie punkty, których odległość od geometrii/geografii jest mniejsza lub równa podanej odległości
 
 select ST_Area(ST_Difference((select buil.geometry 
@@ -108,12 +108,40 @@ select ST_Area(ST_Difference((select buil.geometry
  
 
 
---7. Wybierz te budynki, których centroid (ST_Centroid) znajduje się powyżej drogi RoadX.
---
+--7.Wybierz te budynki, których centroid (ST_Centroid) znajduje siępowyżej drogi RoadX. 
+
+-- ST_Y- Zwróć współrzędną y
+--ST_Centroid oblicza punkt, który jest geometrycznym środkiem masy geometrii
+
+SELECT name FROM buil
+WHERE (ST_Y((ST_Centroid(geometry))) > 4);
 
 
-select buil.name from buil, roads
-where ST_Y(ST_Centroid(buil.geometry)) > ST_Y(ST_Centroid(roads.Geom)) and roads.name='roadX';
+
+
+
+
+
+
+
+
+
+
+
+
+
+--7.Wybierz te budynki, których centroid (ST_Centroid) znajduje siępowyżej drogi RoadX. 
+
+SELECT buil.name FROM buil, roads
+WHERE roads.name = 'roadX'
+AND ST_Y(ST_Centroid(buil.geometry))> ST_Y(ST_Centroid(roads.geom))
+
+
+
+
+
+
+
 
 
 
