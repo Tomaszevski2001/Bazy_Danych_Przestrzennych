@@ -1,0 +1,1766 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "punkty_przy_drodze",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3960599601, 49.0073913436 ]
+			},
+			"properties" : {
+				"POI_ID" : 50605272,
+				"LINK_ID" : 53189377,
+				"TYPE" : "Hotel",
+				"POI_NAME" : "Betzler",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00739,
+				"LON" : 8.39607
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3869498727, 49.0105513535 ]
+			},
+			"properties" : {
+				"POI_ID" : 1070067170,
+				"LINK_ID" : 78579196,
+				"TYPE" : "Commuter Rail Station",
+				"POI_NAME" : "Stadtbahn Mühlburger Tor",
+				"ST_NAME" : "Kaiserallee",
+				"LAT" : 49.01055,
+				"LON" : 8.38696
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3960599601, 49.0073913436 ]
+			},
+			"properties" : {
+				"POI_ID" : 1108398605,
+				"LINK_ID" : 53189377,
+				"TYPE" : "Sporting Goods Store",
+				"POI_NAME" : "Fassbender Tennis & Golf",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00739,
+				"LON" : 8.39607
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3944499447, 49.0079513453 ]
+			},
+			"properties" : {
+				"POI_ID" : 1104117072,
+				"LINK_ID" : 811161236,
+				"TYPE" : "Clothing Store",
+				"POI_NAME" : "Boutique Bombay",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00795,
+				"LON" : 8.39446
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3918799201, 49.0088913481 ]
+			},
+			"properties" : {
+				"POI_ID" : 1104115629,
+				"LINK_ID" : 53191702,
+				"TYPE" : "Clothing Store",
+				"POI_NAME" : "Hemdenservice Piccobello",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00889,
+				"LON" : 8.39189
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.394269943, 49.0080113455 ]
+			},
+			"properties" : {
+				"POI_ID" : 1108706028,
+				"LINK_ID" : 811161236,
+				"TYPE" : "Specialty Store",
+				"POI_NAME" : "Red Box Hairstore",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00801,
+				"LON" : 8.39428
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3677396865, 49.0174913746 ]
+			},
+			"properties" : {
+				"POI_ID" : 801782356,
+				"LINK_ID" : 53179814,
+				"TYPE" : "Pharmacy",
+				"POI_NAME" : "Drais-Apotheke",
+				"ST_NAME" : "Moltkestraße",
+				"LAT" : 49.01749,
+				"LON" : 8.36775
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3918799201, 49.0088913481 ]
+			},
+			"properties" : {
+				"POI_ID" : 1108686583,
+				"LINK_ID" : 53191702,
+				"TYPE" : "Specialty Store",
+				"POI_NAME" : "Salon Headline",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00889,
+				"LON" : 8.39189
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3918899202, 49.0088413481 ]
+			},
+			"properties" : {
+				"POI_ID" : 1108686584,
+				"LINK_ID" : 53191702,
+				"TYPE" : "Specialty Store",
+				"POI_NAME" : "Salon Ruppel",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00884,
+				"LON" : 8.3919
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3918899202, 49.0088413481 ]
+			},
+			"properties" : {
+				"POI_ID" : 1039210485,
+				"LINK_ID" : 53191702,
+				"TYPE" : "Restaurant",
+				"POI_NAME" : "Central Imbiss",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00884,
+				"LON" : 8.3919
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3951699516, 49.0077013445 ]
+			},
+			"properties" : {
+				"POI_ID" : 57540923,
+				"LINK_ID" : 53189358,
+				"TYPE" : "Restaurant",
+				"POI_NAME" : "La Strada-Pasta Pasta",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.0077,
+				"LON" : 8.39518
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3915499169, 49.0089513485 ]
+			},
+			"properties" : {
+				"POI_ID" : 1193011544,
+				"LINK_ID" : 807858986,
+				"TYPE" : "Restaurant",
+				"POI_NAME" : "Kolo City Pizza & Kebaphaus",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00895,
+				"LON" : 8.39156
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3898799009, 49.0095713503 ]
+			},
+			"properties" : {
+				"POI_ID" : 57540924,
+				"LINK_ID" : 807858987,
+				"TYPE" : "Restaurant",
+				"POI_NAME" : "Punjab",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00957,
+				"LON" : 8.38989
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.363719648, 49.0225313792 ]
+			},
+			"properties" : {
+				"POI_ID" : 1131716845,
+				"LINK_ID" : 999128963,
+				"TYPE" : "Park/Recreation Area",
+				"POI_NAME" : "Tennisclub Karlsruhe-West",
+				"ST_NAME" : "Berliner Straße",
+				"LAT" : 49.02253,
+				"LON" : 8.36373
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3956699564, 49.007571344 ]
+			},
+			"properties" : {
+				"POI_ID" : 50610381,
+				"LINK_ID" : 53191350,
+				"TYPE" : "Parking Garage/House",
+				"POI_NAME" : "Ludwigsplatz",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00757,
+				"LON" : 8.39568
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3937299379, 49.0082413461 ]
+			},
+			"properties" : {
+				"POI_ID" : 57562592,
+				"LINK_ID" : 1198329790,
+				"TYPE" : "Parking Garage/House",
+				"POI_NAME" : "Postgalerie",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00824,
+				"LON" : 8.39374
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3930299311, 49.0084513469 ]
+			},
+			"properties" : {
+				"POI_ID" : 50610440,
+				"LINK_ID" : 53189275,
+				"TYPE" : "Parking Garage/House",
+				"POI_NAME" : "Parkhaus Stephanplatz",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00845,
+				"LON" : 8.39304
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3906299081, 49.0092713495 ]
+			},
+			"properties" : {
+				"POI_ID" : 1207963190,
+				"LINK_ID" : 807858986,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Zahnarztpraxis Michael Weiland",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00927,
+				"LON" : 8.39064
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3949899499, 49.0077913447 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210891400,
+				"LINK_ID" : 53189358,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Leokadia Seidler",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00779,
+				"LON" : 8.395
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3920599218, 49.0087813479 ]
+			},
+			"properties" : {
+				"POI_ID" : 1211309940,
+				"LINK_ID" : 53191702,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dipl.Psych. Uschi Timmwinkmann",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00878,
+				"LON" : 8.39207
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3920599218, 49.0087813479 ]
+			},
+			"properties" : {
+				"POI_ID" : 1211310597,
+				"LINK_ID" : 53191702,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. Dipl.Psych. Ingeborg Kraus",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00878,
+				"LON" : 8.39207
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3906299081, 49.0092713495 ]
+			},
+			"properties" : {
+				"POI_ID" : 1211262263,
+				"LINK_ID" : 807858986,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. Gerd Schaufelberger",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00927,
+				"LON" : 8.39064
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.393019931, 49.0084413469 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210921526,
+				"LINK_ID" : 53189275,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. med. Ulrich Janosovits",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00844,
+				"LON" : 8.39303
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3942599429, 49.0080113455 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210918839,
+				"LINK_ID" : 811161236,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. Phil. Christian Kürschner",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00801,
+				"LON" : 8.39427
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3938899394, 49.0081413459 ]
+			},
+			"properties" : {
+				"POI_ID" : 1211385377,
+				"LINK_ID" : 1198329789,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dipl.Psych. Manfred Schmitt",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00814,
+				"LON" : 8.3939
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3878798817, 49.0102213525 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210916977,
+				"LINK_ID" : 53189085,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. med. Michaela Lorenz",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.01022,
+				"LON" : 8.38789
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.393019931, 49.0084413469 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210917003,
+				"LINK_ID" : 53189275,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. med. Jörg Decker",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00844,
+				"LON" : 8.39303
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3878798817, 49.0102213525 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210917581,
+				"LINK_ID" : 53189085,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Yu Jun Huang",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.01022,
+				"LON" : 8.38789
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3878798817, 49.0102213525 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210917473,
+				"LINK_ID" : 53189085,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. Medic. Manuelanarcisa Ghidersa",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.01022,
+				"LON" : 8.38789
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3938899394, 49.0081413459 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210918174,
+				"LINK_ID" : 1198329789,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Peterpaul Tarne",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00814,
+				"LON" : 8.3939
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3949899499, 49.0077913447 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210918219,
+				"LINK_ID" : 53189358,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. Andrea Raufeisen",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00779,
+				"LON" : 8.395
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3942599429, 49.0080113455 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210917908,
+				"LINK_ID" : 811161236,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. med. Christine Jung",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00801,
+				"LON" : 8.39427
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.394269943, 49.0080113455 ]
+			},
+			"properties" : {
+				"POI_ID" : 1017154916,
+				"LINK_ID" : 811161236,
+				"TYPE" : "ATM",
+				"POI_NAME" : "Isbank",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00801,
+				"LON" : 8.39428
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.394269943, 49.0080113455 ]
+			},
+			"properties" : {
+				"POI_ID" : 1017154917,
+				"LINK_ID" : 811161236,
+				"TYPE" : "Bank",
+				"POI_NAME" : "Isbank",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00801,
+				"LON" : 8.39428
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3915399169, 49.0090013485 ]
+			},
+			"properties" : {
+				"POI_ID" : 1148908265,
+				"LINK_ID" : 807858986,
+				"TYPE" : "Nightlife",
+				"POI_NAME" : "Brasil",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.009,
+				"LON" : 8.39155
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.390929911, 49.0091713491 ]
+			},
+			"properties" : {
+				"POI_ID" : 57561520,
+				"LINK_ID" : 807858986,
+				"TYPE" : "Nightlife",
+				"POI_NAME" : "Casino Royal Spielcenter",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00917,
+				"LON" : 8.39094
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3657796675, 49.0189713768 ]
+			},
+			"properties" : {
+				"POI_ID" : 898521667,
+				"LINK_ID" : 53188572,
+				"TYPE" : "School",
+				"POI_NAME" : "Erich Kästner Schule",
+				"ST_NAME" : "Moltkestraße",
+				"LAT" : 49.01897,
+				"LON" : 8.36579
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3869398726, 49.0105913535 ]
+			},
+			"properties" : {
+				"POI_ID" : 1039815347,
+				"LINK_ID" : 78579196,
+				"TYPE" : "Place of Worship",
+				"POI_NAME" : "Christuskirche",
+				"ST_NAME" : "Kaiserallee",
+				"LAT" : 49.01059,
+				"LON" : 8.38695
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3910199119, 49.009141349 ]
+			},
+			"properties" : {
+				"POI_ID" : 800841281,
+				"LINK_ID" : 807858986,
+				"TYPE" : "Petrol/Gasoline Station",
+				"POI_NAME" : "ARAL",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00914,
+				"LON" : 8.39103
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3910999122, 49.0070513489 ]
+			},
+			"properties" : {
+				"POI_ID" : 50605104,
+				"LINK_ID" : 53189402,
+				"TYPE" : "Hotel",
+				"POI_NAME" : "Gästehaus Alte Münze",
+				"ST_NAME" : "Sophienstraße",
+				"LAT" : 49.00705,
+				"LON" : 8.39111
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3863398666, 49.0096613541 ]
+			},
+			"properties" : {
+				"POI_ID" : 50606034,
+				"LINK_ID" : 53189352,
+				"TYPE" : "Hotel",
+				"POI_NAME" : "Rio Karlsruhe",
+				"ST_NAME" : "Hans-Sachs-Straße",
+				"LAT" : 49.00966,
+				"LON" : 8.38635
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3869398726, 49.0103813535 ]
+			},
+			"properties" : {
+				"POI_ID" : 1070067171,
+				"LINK_ID" : 53189061,
+				"TYPE" : "Commuter Rail Station",
+				"POI_NAME" : "Stadtbahn Mühlburger Tor",
+				"ST_NAME" : "Kaiserallee",
+				"LAT" : 49.01038,
+				"LON" : 8.38695
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3860898638, 49.0081313544 ]
+			},
+			"properties" : {
+				"POI_ID" : 1142400723,
+				"LINK_ID" : 53189352,
+				"TYPE" : "Grocery Store",
+				"POI_NAME" : "REWE",
+				"ST_NAME" : "Hans-Sachs-Straße",
+				"LAT" : 49.00813,
+				"LON" : 8.3861
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3897598993, 49.0074413504 ]
+			},
+			"properties" : {
+				"POI_ID" : 800748202,
+				"LINK_ID" : 53189402,
+				"TYPE" : "Pharmacy",
+				"POI_NAME" : "Leopold-Apotheke",
+				"ST_NAME" : "Sophienstraße",
+				"LAT" : 49.00744,
+				"LON" : 8.38977
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3944499447, 49.0079513453 ]
+			},
+			"properties" : {
+				"POI_ID" : 1104117072,
+				"LINK_ID" : 811161236,
+				"TYPE" : "Clothing Store",
+				"POI_NAME" : "Boutique Bombay",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00795,
+				"LON" : 8.39446
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3891998939, 49.007521351 ]
+			},
+			"properties" : {
+				"POI_ID" : 1098053805,
+				"LINK_ID" : 53189365,
+				"TYPE" : "Grocery Store",
+				"POI_NAME" : "KODi",
+				"ST_NAME" : "Sophienstraße",
+				"LAT" : 49.00752,
+				"LON" : 8.38921
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.394269943, 49.0080113455 ]
+			},
+			"properties" : {
+				"POI_ID" : 1108706028,
+				"LINK_ID" : 811161236,
+				"TYPE" : "Specialty Store",
+				"POI_NAME" : "Red Box Hairstore",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00801,
+				"LON" : 8.39428
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3925199259, 49.0071413474 ]
+			},
+			"properties" : {
+				"POI_ID" : 1132034811,
+				"LINK_ID" : 53189412,
+				"TYPE" : "Sporting Goods Store",
+				"POI_NAME" : "Rad + Tat",
+				"ST_NAME" : "Waldstraße",
+				"LAT" : 49.00714,
+				"LON" : 8.39253
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3935799363, 49.0077013462 ]
+			},
+			"properties" : {
+				"POI_ID" : 1104303609,
+				"LINK_ID" : 53189412,
+				"TYPE" : "Clothing Store",
+				"POI_NAME" : "MARCCAIN",
+				"ST_NAME" : "Waldstraße",
+				"LAT" : 49.0077,
+				"LON" : 8.39359
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3866498692, 49.0076913537 ]
+			},
+			"properties" : {
+				"POI_ID" : 1108687027,
+				"LINK_ID" : 53189356,
+				"TYPE" : "Specialty Store",
+				"POI_NAME" : "Friseure Kamm in",
+				"ST_NAME" : "Sophienstraße",
+				"LAT" : 49.00769,
+				"LON" : 8.38666
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3961399611, 49.0081913435 ]
+			},
+			"properties" : {
+				"POI_ID" : 1108687004,
+				"LINK_ID" : 53189357,
+				"TYPE" : "Specialty Store",
+				"POI_NAME" : "Haargalerie T. Benz",
+				"ST_NAME" : "Bürgerstraße",
+				"LAT" : 49.00819,
+				"LON" : 8.39615
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3965799654, 49.008281343 ]
+			},
+			"properties" : {
+				"POI_ID" : 1108686994,
+				"LINK_ID" : 53189332,
+				"TYPE" : "Specialty Store",
+				"POI_NAME" : "Schöne Haare Karlsruhe",
+				"ST_NAME" : "Blumenstraße",
+				"LAT" : 49.00828,
+				"LON" : 8.39659
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3923499242, 49.0069913476 ]
+			},
+			"properties" : {
+				"POI_ID" : 1108686601,
+				"LINK_ID" : 53189412,
+				"TYPE" : "Specialty Store",
+				"POI_NAME" : "Donato Hair Creations",
+				"ST_NAME" : "Waldstraße",
+				"LAT" : 49.00699,
+				"LON" : 8.39236
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3937199377, 49.0077813461 ]
+			},
+			"properties" : {
+				"POI_ID" : 1108686600,
+				"LINK_ID" : 53189412,
+				"TYPE" : "Specialty Store",
+				"POI_NAME" : "A + M Friseur",
+				"ST_NAME" : "Waldstraße",
+				"LAT" : 49.00778,
+				"LON" : 8.39373
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3912599137, 49.0069613487 ]
+			},
+			"properties" : {
+				"POI_ID" : 1108686604,
+				"LINK_ID" : 53189402,
+				"TYPE" : "Specialty Store",
+				"POI_NAME" : "Seki-Hair",
+				"ST_NAME" : "Sophienstraße",
+				"LAT" : 49.00696,
+				"LON" : 8.39127
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3965799654, 49.008281343 ]
+			},
+			"properties" : {
+				"POI_ID" : 800763380,
+				"LINK_ID" : 53189332,
+				"TYPE" : "Restaurant",
+				"POI_NAME" : "Trattoria Toscana",
+				"ST_NAME" : "Blumenstraße",
+				"LAT" : 49.00828,
+				"LON" : 8.39659
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.392729928, 49.0072113471 ]
+			},
+			"properties" : {
+				"POI_ID" : 800760880,
+				"LINK_ID" : 53189412,
+				"TYPE" : "Restaurant",
+				"POI_NAME" : "Pomodoro",
+				"ST_NAME" : "Waldstraße",
+				"LAT" : 49.00721,
+				"LON" : 8.39274
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3933599341, 49.0076313465 ]
+			},
+			"properties" : {
+				"POI_ID" : 1039210459,
+				"LINK_ID" : 53189412,
+				"TYPE" : "Restaurant",
+				"POI_NAME" : "Cafe Extrablatt",
+				"ST_NAME" : "Waldstraße",
+				"LAT" : 49.00763,
+				"LON" : 8.39337
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3951699516, 49.0077013445 ]
+			},
+			"properties" : {
+				"POI_ID" : 57540923,
+				"LINK_ID" : 53189358,
+				"TYPE" : "Restaurant",
+				"POI_NAME" : "La Strada-Pasta Pasta",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.0077,
+				"LON" : 8.39518
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3863698669, 49.0098113541 ]
+			},
+			"properties" : {
+				"POI_ID" : 1164958750,
+				"LINK_ID" : 53189352,
+				"TYPE" : "Restaurant",
+				"POI_NAME" : "Rio",
+				"ST_NAME" : "Hans-Sachs-Straße",
+				"LAT" : 49.00981,
+				"LON" : 8.38638
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3931099317, 49.0074813467 ]
+			},
+			"properties" : {
+				"POI_ID" : 1193011622,
+				"LINK_ID" : 53189412,
+				"TYPE" : "Restaurant",
+				"POI_NAME" : "Portale 50",
+				"ST_NAME" : "Waldstraße",
+				"LAT" : 49.00748,
+				"LON" : 8.39312
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3659896706, 49.0235313767 ]
+			},
+			"properties" : {
+				"POI_ID" : 1193013391,
+				"LINK_ID" : 53179612,
+				"TYPE" : "Restaurant",
+				"POI_NAME" : "La Brace",
+				"ST_NAME" : "Hertzstraße",
+				"LAT" : 49.02353,
+				"LON" : 8.366
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3912599137, 49.0069613487 ]
+			},
+			"properties" : {
+				"POI_ID" : 1039243132,
+				"LINK_ID" : 53189402,
+				"TYPE" : "Restaurant",
+				"POI_NAME" : "Heilige Sophie",
+				"ST_NAME" : "Sophienstraße",
+				"LAT" : 49.00696,
+				"LON" : 8.39127
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3891998939, 49.007521351 ]
+			},
+			"properties" : {
+				"POI_ID" : 1039243141,
+				"LINK_ID" : 53189365,
+				"TYPE" : "Restaurant",
+				"POI_NAME" : "Pizzeria Centrale",
+				"ST_NAME" : "Sophienstraße",
+				"LAT" : 49.00752,
+				"LON" : 8.38921
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3874998774, 49.0076413528 ]
+			},
+			"properties" : {
+				"POI_ID" : 1039243142,
+				"LINK_ID" : 53189365,
+				"TYPE" : "Restaurant",
+				"POI_NAME" : "Shiraz",
+				"ST_NAME" : "Sophienstraße",
+				"LAT" : 49.00764,
+				"LON" : 8.38751
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3959399591, 49.0080513437 ]
+			},
+			"properties" : {
+				"POI_ID" : 1193028461,
+				"LINK_ID" : 53189357,
+				"TYPE" : "Restaurant",
+				"POI_NAME" : "Pizza & Gusto",
+				"ST_NAME" : "Bürgerstraße",
+				"LAT" : 49.00805,
+				"LON" : 8.39595
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3656396678, 49.0261613772 ]
+			},
+			"properties" : {
+				"POI_ID" : 1131716846,
+				"LINK_ID" : 999128960,
+				"TYPE" : "Park/Recreation Area",
+				"POI_NAME" : "Sportgemeinschaft Siemens Karlsruhe",
+				"ST_NAME" : "Hertzstraße",
+				"LAT" : 49.02616,
+				"LON" : 8.36565
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3659896707, 49.0236513767 ]
+			},
+			"properties" : {
+				"POI_ID" : 1131716848,
+				"LINK_ID" : 53179612,
+				"TYPE" : "Park/Recreation Area",
+				"POI_NAME" : "Karlsruher Fußball-Club West 1932",
+				"ST_NAME" : "Hertzstraße",
+				"LAT" : 49.02365,
+				"LON" : 8.366
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3957299571, 49.0079613439 ]
+			},
+			"properties" : {
+				"POI_ID" : 1178852284,
+				"LINK_ID" : 53189357,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Prof. Dr. med. Uwe Müllerbühl",
+				"ST_NAME" : "Bürgerstraße",
+				"LAT" : 49.00796,
+				"LON" : 8.39574
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3957299571, 49.0079613439 ]
+			},
+			"properties" : {
+				"POI_ID" : 1178852615,
+				"LINK_ID" : 53189357,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Evgenij Malysev",
+				"ST_NAME" : "Bürgerstraße",
+				"LAT" : 49.00796,
+				"LON" : 8.39574
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3897598993, 49.0074413504 ]
+			},
+			"properties" : {
+				"POI_ID" : 1178851649,
+				"LINK_ID" : 53189402,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. med. Beate Weinschenk",
+				"ST_NAME" : "Sophienstraße",
+				"LAT" : 49.00744,
+				"LON" : 8.38977
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3949899499, 49.0077913447 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210891400,
+				"LINK_ID" : 53189358,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Leokadia Seidler",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00779,
+				"LON" : 8.395
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3864398677, 49.010141354 ]
+			},
+			"properties" : {
+				"POI_ID" : 1211314463,
+				"LINK_ID" : 53189352,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dipl.Psych. Kristin Dörner",
+				"ST_NAME" : "Hans-Sachs-Straße",
+				"LAT" : 49.01014,
+				"LON" : 8.38645
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.392839929, 49.007271347 ]
+			},
+			"properties" : {
+				"POI_ID" : 1211309823,
+				"LINK_ID" : 53189412,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dipl.Psych. Wolfgang Friedebach",
+				"ST_NAME" : "Waldstraße",
+				"LAT" : 49.00727,
+				"LON" : 8.39285
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3863198663, 49.0092013541 ]
+			},
+			"properties" : {
+				"POI_ID" : 1211310014,
+				"LINK_ID" : 53189352,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dipl.Päd. Christina Leser",
+				"ST_NAME" : "Hans-Sachs-Straße",
+				"LAT" : 49.0092,
+				"LON" : 8.38633
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3863198663, 49.0092013541 ]
+			},
+			"properties" : {
+				"POI_ID" : 1211310631,
+				"LINK_ID" : 53189352,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dipl.Psych. Annette Rothenhäusler",
+				"ST_NAME" : "Hans-Sachs-Straße",
+				"LAT" : 49.0092,
+				"LON" : 8.38633
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3864398677, 49.010141354 ]
+			},
+			"properties" : {
+				"POI_ID" : 1211310607,
+				"LINK_ID" : 53189352,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dipl.Psych. Julia Hassler",
+				"ST_NAME" : "Hans-Sachs-Straße",
+				"LAT" : 49.01014,
+				"LON" : 8.38645
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3863198663, 49.0092013541 ]
+			},
+			"properties" : {
+				"POI_ID" : 1211310088,
+				"LINK_ID" : 53189352,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dipl.Psych. Gisela Garn",
+				"ST_NAME" : "Hans-Sachs-Straße",
+				"LAT" : 49.0092,
+				"LON" : 8.38633
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3864398677, 49.010141354 ]
+			},
+			"properties" : {
+				"POI_ID" : 1211310335,
+				"LINK_ID" : 53189352,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dipl.Psych. Andrea Thorwarth",
+				"ST_NAME" : "Hans-Sachs-Straße",
+				"LAT" : 49.01014,
+				"LON" : 8.38645
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3891998939, 49.007511351 ]
+			},
+			"properties" : {
+				"POI_ID" : 1211262727,
+				"LINK_ID" : 53189365,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. Medic. Stom. (R) Nikolaus Lahr",
+				"ST_NAME" : "Sophienstraße",
+				"LAT" : 49.00751,
+				"LON" : 8.38921
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3897598993, 49.0074413504 ]
+			},
+			"properties" : {
+				"POI_ID" : 1211262551,
+				"LINK_ID" : 53189402,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Tatjana Schüz",
+				"ST_NAME" : "Sophienstraße",
+				"LAT" : 49.00744,
+				"LON" : 8.38977
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3960199599, 49.0081613436 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210922249,
+				"LINK_ID" : 53189357,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Markus Boldyreff",
+				"ST_NAME" : "Bürgerstraße",
+				"LAT" : 49.00816,
+				"LON" : 8.39603
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3856998607, 49.0112513549 ]
+			},
+			"properties" : {
+				"POI_ID" : 1201502688,
+				"LINK_ID" : 991685445,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Optima Klinik",
+				"ST_NAME" : "Südliche Hildapromenade",
+				"LAT" : 49.01125,
+				"LON" : 8.38571
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3957299571, 49.0079613439 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210918666,
+				"LINK_ID" : 53189357,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. med. Andreas Scherer",
+				"ST_NAME" : "Bürgerstraße",
+				"LAT" : 49.00796,
+				"LON" : 8.39574
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3957299571, 49.0079613439 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210918894,
+				"LINK_ID" : 53189357,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. med. Konradmartin Schultz",
+				"ST_NAME" : "Bürgerstraße",
+				"LAT" : 49.00796,
+				"LON" : 8.39574
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3942599429, 49.0080113455 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210918839,
+				"LINK_ID" : 811161236,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. Phil. Christian Kürschner",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00801,
+				"LON" : 8.39427
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3957299571, 49.0079613439 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210918479,
+				"LINK_ID" : 53189357,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. med. Thomas Klaas",
+				"ST_NAME" : "Bürgerstraße",
+				"LAT" : 49.00796,
+				"LON" : 8.39574
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3957299571, 49.0079613439 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210918552,
+				"LINK_ID" : 53189357,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. Tilmann Wilde",
+				"ST_NAME" : "Bürgerstraße",
+				"LAT" : 49.00796,
+				"LON" : 8.39574
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3864398677, 49.010141354 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210917039,
+				"LINK_ID" : 53189352,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. med. Arno Riegsinger",
+				"ST_NAME" : "Hans-Sachs-Straße",
+				"LAT" : 49.01014,
+				"LON" : 8.38645
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3863098658, 49.0076613541 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210917077,
+				"LINK_ID" : 53189356,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. Simone Reißlinder",
+				"ST_NAME" : "Sophienstraße",
+				"LAT" : 49.00766,
+				"LON" : 8.38632
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3864398677, 49.010141354 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210917094,
+				"LINK_ID" : 53189352,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. med. Arntraud Pommersheim",
+				"ST_NAME" : "Hans-Sachs-Straße",
+				"LAT" : 49.01014,
+				"LON" : 8.38645
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3850698548, 49.0118513556 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210917149,
+				"LINK_ID" : 991685445,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. med. Manuela Kliewe",
+				"ST_NAME" : "Südliche Hildapromenade",
+				"LAT" : 49.01185,
+				"LON" : 8.38508
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3907799091, 49.0071113493 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210917306,
+				"LINK_ID" : 53189402,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Zahnärztliche Fortbildung Karlsruhe",
+				"ST_NAME" : "Sophienstraße",
+				"LAT" : 49.00711,
+				"LON" : 8.39079
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3907799091, 49.0071113493 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210917306,
+				"LINK_ID" : 53189402,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Akademie für Zahnärztliche Fortbildung Karlsruhe",
+				"ST_NAME" : "Sophienstraße",
+				"LAT" : 49.00711,
+				"LON" : 8.39079
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3850698548, 49.0118513556 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210917017,
+				"LINK_ID" : 991685445,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. med. Alessandro Näher",
+				"ST_NAME" : "Südliche Hildapromenade",
+				"LAT" : 49.01185,
+				"LON" : 8.38508
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3864398677, 49.010141354 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210917764,
+				"LINK_ID" : 53189352,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. med. Lutz Krieglstein",
+				"ST_NAME" : "Hans-Sachs-Straße",
+				"LAT" : 49.01014,
+				"LON" : 8.38645
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3957299571, 49.0079613439 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210918211,
+				"LINK_ID" : 53189357,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. med. Lothar Leppertsaumer",
+				"ST_NAME" : "Bürgerstraße",
+				"LAT" : 49.00796,
+				"LON" : 8.39574
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3949899499, 49.0077913447 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210918219,
+				"LINK_ID" : 53189358,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. Andrea Raufeisen",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00779,
+				"LON" : 8.395
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3942599429, 49.0080113455 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210917908,
+				"LINK_ID" : 811161236,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. med. Christine Jung",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00801,
+				"LON" : 8.39427
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3957299571, 49.0079613439 ]
+			},
+			"properties" : {
+				"POI_ID" : 1210917985,
+				"LINK_ID" : 53189357,
+				"TYPE" : "Medical Service",
+				"POI_NAME" : "Dr. med. Hans Bürkle",
+				"ST_NAME" : "Bürgerstraße",
+				"LAT" : 49.00796,
+				"LON" : 8.39574
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.394269943, 49.0080113455 ]
+			},
+			"properties" : {
+				"POI_ID" : 1017154916,
+				"LINK_ID" : 811161236,
+				"TYPE" : "ATM",
+				"POI_NAME" : "Isbank",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00801,
+				"LON" : 8.39428
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.394269943, 49.0080113455 ]
+			},
+			"properties" : {
+				"POI_ID" : 1017154917,
+				"LINK_ID" : 811161236,
+				"TYPE" : "Bank",
+				"POI_NAME" : "Isbank",
+				"ST_NAME" : "Amalienstraße",
+				"LAT" : 49.00801,
+				"LON" : 8.39428
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3984599833, 49.007441341 ]
+			},
+			"properties" : {
+				"POI_ID" : 1023843397,
+				"LINK_ID" : 931442642,
+				"TYPE" : "ATM",
+				"POI_NAME" : "Evangelische Bank",
+				"ST_NAME" : "Blumenstraße",
+				"LAT" : 49.00744,
+				"LON" : 8.39847
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3984599833, 49.007441341 ]
+			},
+			"properties" : {
+				"POI_ID" : 1023822445,
+				"LINK_ID" : 931442642,
+				"TYPE" : "Bank",
+				"POI_NAME" : "Evangelische Bank",
+				"ST_NAME" : "Blumenstraße",
+				"LAT" : 49.00744,
+				"LON" : 8.39847
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3866898702, 49.0103613538 ]
+			},
+			"properties" : {
+				"POI_ID" : 57552798,
+				"LINK_ID" : 53189061,
+				"TYPE" : "Nightlife",
+				"POI_NAME" : "Unverschämt",
+				"ST_NAME" : "Kaiserallee",
+				"LAT" : 49.01036,
+				"LON" : 8.3867
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3659696701, 49.0222813767 ]
+			},
+			"properties" : {
+				"POI_ID" : 57552921,
+				"LINK_ID" : 53183854,
+				"TYPE" : "Higher Education",
+				"POI_NAME" : "Universität Fridericiana",
+				"ST_NAME" : "Hertzstraße",
+				"LAT" : 49.02228,
+				"LON" : 8.36598
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3657796675, 49.0189713768 ]
+			},
+			"properties" : {
+				"POI_ID" : 898521667,
+				"LINK_ID" : 53188572,
+				"TYPE" : "School",
+				"POI_NAME" : "Erich Kästner Schule",
+				"ST_NAME" : "Moltkestraße",
+				"LAT" : 49.01897,
+				"LON" : 8.36579
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3659696701, 49.0222813767 ]
+			},
+			"properties" : {
+				"POI_ID" : 1005231203,
+				"LINK_ID" : 53183854,
+				"TYPE" : "School",
+				"POI_NAME" : "Kath. Kindergarten St. Konrad",
+				"ST_NAME" : "Hertzstraße",
+				"LAT" : 49.02228,
+				"LON" : 8.36598
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3660396711, 49.0232313767 ]
+			},
+			"properties" : {
+				"POI_ID" : 1165846659,
+				"LINK_ID" : 53179612,
+				"TYPE" : "Place of Worship",
+				"POI_NAME" : "Kirche Sankt Konrad",
+				"ST_NAME" : "Hertzstraße",
+				"LAT" : 49.02323,
+				"LON" : 8.36605
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3841698462, 49.0127413566 ]
+			},
+			"properties" : {
+				"POI_ID" : 1017621205,
+				"LINK_ID" : 53188846,
+				"TYPE" : "Court House",
+				"POI_NAME" : "Verwaltungsgericht Karlsruhe",
+				"ST_NAME" : "Nördliche Hildapromenade",
+				"LAT" : 49.01274,
+				"LON" : 8.38418
+			}
+		}
+	]
+}
